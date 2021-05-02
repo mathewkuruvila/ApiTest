@@ -1,6 +1,6 @@
 # ApiTest
 
-The project is based on Jest as the testing framework.
+The project is based on Jest as the testing framework. supertest is used for making api call.
 
 Only if statusCode = 200, test will proceed. Else it will fail the test.
 
